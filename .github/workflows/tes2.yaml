@@ -1,8 +1,6 @@
 name: Test React Application 2
 
-# Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   pull_request:
   push:
     branches: [ main, dev2 ]
@@ -20,5 +18,11 @@ jobs:
       - name: Install playwright browsers
         run: npx playwright install --with-deps
 
-      - name: Run tests 2
+      - name: Run e2e tests
         run: npm run e2e-tests
+
+      - name: Upload test reports
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-report
+          path: ./playwright-report
