@@ -27,6 +27,9 @@ jobs:
         run: npx playwright install
 
       - name: Install dependencies
+        run: sudo apt update
+        
+      - name: Install dependencies
         run: sudo apt install -y \
             libwoff1 \
             libvpx7 \
