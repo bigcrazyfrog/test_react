@@ -1,0 +1,454 @@
+{
+    "intervals": [
+        {
+            "id": 1,
+            "start": 1714305600,
+            "end": 1714315500,
+            "doctor_id": 1,
+            "doctor": "Иванов И.В",
+            "cabinet_id": 0,
+            "cabinet": 202
+        },
+        {
+            "id": 2,
+            "start": 1714320000,
+            "end": 1714329900,
+            "doctor_id": 2,
+            "doctor": "Петров П.П",
+            "cabinet_id": 1,
+            "cabinet": 203
+        },
+        {
+            "id": 3,
+            "start": 1714334400,
+            "end": 1714344300,
+            "doctor_id": 3,
+            "doctor": "Сидоров С.С",
+            "cabinet_id": 2,
+            "cabinet": 204
+        },
+        {
+            "id": 4,
+            "start": 1714353600,
+            "end": 1714363500,
+            "doctor_id": 4,
+            "doctor": "Коваленко К.К",
+            "cabinet_id": 3,
+            "cabinet": 205
+        },
+        {
+            "id": 5,
+            "start": 1714372800,
+            "end": 1714382700,
+            "doctor_id": 5,
+            "doctor": "Новикова Н.Н",
+            "cabinet_id": 4,
+            "cabinet": 206
+        },
+        {
+            "id": 6,
+            "start": 1714392000,
+            "end": 1714401900,
+            "doctor_id": 6,
+            "doctor": "Михайлов М.М",
+            "cabinet_id": 5,
+            "cabinet": 207
+        },
+        {
+            "id": 7,
+            "start": 1714411200,
+            "end": 1714421100,
+            "doctor_id": 7,
+            "doctor": "Алексеева А.А",
+            "cabinet_id": 6,
+            "cabinet": 208
+        },
+        {
+            "id": 8,
+            "start": 1714430400,
+            "end": 1714440300,
+            "doctor_id": 8,
+            "doctor": "Игнатьев И.И",
+            "cabinet_id": 7,
+            "cabinet": 209
+        },
+        {
+            "id": 9,
+            "start": 1714449600,
+            "end": 1714459500,
+            "doctor_id": 9,
+            "doctor": "Орлова О.О",
+            "cabinet_id": 8,
+            "cabinet": 210
+        },
+        {
+            "id": 10,
+            "start": 1714468800,
+            "end": 1714478700,
+            "doctor_id": 10,
+            "doctor": "Кузнецова К.К",
+            "cabinet_id": 9,
+            "cabinet": 211
+        },
+        {
+            "id": 11,
+            "start": 1714488000,
+            "end": 1714497900,
+            "doctor_id": 11,
+            "doctor": "Лебедев Л.Л",
+            "cabinet_id": 10,
+            "cabinet": 212
+        },
+        {
+            "id": 12,
+            "start": 1714507200,
+            "end": 1714517100,
+            "doctor_id": 12,
+            "doctor": "Григорьев Г.Г",
+            "cabinet_id": 11,
+            "cabinet": 213
+        },
+        {
+            "id": 13,
+            "start": 1714526400,
+            "end": 1714536300,
+            "doctor_id": 13,
+            "doctor": "Дмитриев Д.Д",
+            "cabinet_id": 12,
+            "cabinet": 214
+        },
+        {
+            "id": 14,
+            "start": 1714545600,
+            "end": 1714555500,
+            "doctor_id": 14,
+            "doctor": "Андреев А.А",
+            "cabinet_id": 13,
+            "cabinet": 215
+        },
+        {
+            "id": 15,
+            "start": 1714564800,
+            "end": 1714574700,
+            "doctor_id": 15,
+            "doctor": "Егорова Е.Е",
+            "cabinet_id": 14,
+            "cabinet": 216
+        },
+        {
+            "id": 16,
+            "start": 1714584000,
+            "end": 1714593900,
+            "doctor_id": 16,
+            "doctor": "Федоров Ф.Ф",
+            "cabinet_id": 15,
+            "cabinet": 217
+        },
+        {
+            "id": 17,
+            "start": 1714603200,
+            "end": 1714613100,
+            "doctor_id": 17,
+            "doctor": "Степанова С.С",
+            "cabinet_id": 16,
+            "cabinet": 218
+        },
+        {
+            "id": 18,
+            "start": 1714622400,
+            "end": 1714632300,
+            "doctor_id": 18,
+            "doctor": "Максимова М.М",
+            "cabinet_id": 17,
+            "cabinet": 219
+        },
+        {
+            "id": 19,
+            "start": 1714641600,
+            "end": 1714651500,
+            "doctor_id": 19,
+            "doctor": "Антонов А.А",
+            "cabinet_id": 18,
+            "cabinet": 220
+        },
+        {
+            "id": 20,
+            "start": 1714660800,
+            "end": 1714670700,
+            "doctor_id": 20,
+            "doctor": "Тарасова Т.Т",
+            "cabinet_id": 19,
+            "cabinet": 221
+        },
+        {
+            "id": 21,
+            "start": 1714680000,
+            "end": 1714689900,
+            "doctor_id": 21,
+            "doctor": "Васильева В.В",
+            "cabinet_id": 20,
+            "cabinet": 222
+        },
+        {
+            "id": 22,
+            "start": 1714680000,
+            "end": 1714689900,
+            "doctor_id": 22,
+            "doctor": "Ильин И.И",
+            "cabinet_id": 21,
+            "cabinet": 223
+        },
+        {
+            "id": 23,
+            "start": 1714699200,
+            "end": 1714709100,
+            "doctor_id": 23,
+            "doctor": "Артемьева А.А",
+            "cabinet_id": 22,
+            "cabinet": 224
+        },
+        {
+            "id": 24,
+            "start": 1714718400,
+            "end": 1714728300,
+            "doctor_id": 24,
+            "doctor": "Павлов П.П",
+            "cabinet_id": 23,
+            "cabinet": 225
+        },
+        {
+            "id": 25,
+            "start": 1714737600,
+            "end": 1714747500,
+            "doctor_id": 25,
+            "doctor": "Герасимова Г.Г",
+            "cabinet_id": 24,
+            "cabinet": 226
+        },
+        {
+            "id": 26,
+            "start": 1714756800,
+            "end": 1714766700,
+            "doctor_id": 26,
+            "doctor": "Марков М.М",
+            "cabinet_id": 25,
+            "cabinet": 227
+        },
+        {
+            "id": 27,
+            "start": 1714776000,
+            "end": 1714785900,
+            "doctor_id": 27,
+            "doctor": "Кириллов К.К",
+            "cabinet_id": 26,
+            "cabinet": 228
+        },
+        {
+            "id": 28,
+            "start": 1714795200,
+            "end": 1714805100,
+            "doctor_id": 28,
+            "doctor": "Сергеев С.С",
+            "cabinet_id": 27,
+            "cabinet": 229
+        },
+        {
+            "id": 29,
+            "start": 1714814400,
+            "end": 1714824300,
+            "doctor_id": 29,
+            "doctor": "Никитина Н.Н",
+            "cabinet_id": 28,
+            "cabinet": 230
+        },
+        {
+            "id": 30,
+            "start": 1714833600,
+            "end": 1714843500,
+            "doctor_id": 30,
+            "doctor": "Денисова Д.Д",
+            "cabinet_id": 29,
+            "cabinet": 231
+        },
+        {
+            "id": 31,
+            "start": 1714852800,
+            "end": 1714862700,
+            "doctor_id": 31,
+            "doctor": "Савельева С.С",
+            "cabinet_id": 30,
+            "cabinet": 232
+        },
+        {
+            "id": 32,
+            "start": 1714872000,
+            "end": 1714881900,
+            "doctor_id": 32,
+            "doctor": "Романова Р.Р",
+            "cabinet_id": 31,
+            "cabinet": 233
+        },
+        {
+            "id": 33,
+            "start": 1714891200,
+            "end": 1714901100,
+            "doctor_id": 33,
+            "doctor": "Олегов О.О",
+            "cabinet_id": 32,
+            "cabinet": 234
+        },
+        {
+            "id": 34,
+            "start": 1714910400,
+            "end": 1714920300,
+            "doctor_id": 34,
+            "doctor": "Тихонов Т.Т",
+            "cabinet_id": 33,
+            "cabinet": 235
+        },
+        {
+            "id": 35,
+            "start": 1714929600,
+            "end": 1714939500,
+            "doctor_id": 35,
+            "doctor": "Ефимова Е.Е",
+            "cabinet_id": 34,
+            "cabinet": 236
+        },
+        {
+            "id": 36,
+            "start": 1714948800,
+            "end": 1714958700,
+            "doctor_id": 36,
+            "doctor": "Юрьев Ю.Ю",
+            "cabinet_id": 35,
+            "cabinet": 237
+        },
+        {
+            "id": 37,
+            "start": 1714968000,
+            "end": 1714977900,
+            "doctor_id": 37,
+            "doctor": "Жуков Ж.Ж",
+            "cabinet_id": 36,
+            "cabinet": 238
+        },
+        {
+            "id": 38,
+            "start": 1714987200,
+            "end": 1714997100,
+            "doctor_id": 38,
+            "doctor": "Данилов Д.Д",
+            "cabinet_id": 37,
+            "cabinet": 239
+        },
+        {
+            "id": 39,
+            "start": 1715006400,
+            "end": 1715016300,
+            "doctor_id": 39,
+            "doctor": "Владимиров В.В",
+            "cabinet_id": 38,
+            "cabinet": 240
+        },
+        {
+            "id": 40,
+            "start": 1715025600,
+            "end": 1715035500,
+            "doctor_id": 40,
+            "doctor": "Сергеева С.С",
+            "cabinet_id": 39,
+            "cabinet": 241
+        },
+        {
+            "id": 41,
+            "start": 1715035700,
+            "end": 1715045600,
+            "doctor_id": 1,
+            "doctor": "Иванов И.В",
+            "cabinet_id": 40,
+            "cabinet": 242
+        },
+        {
+            "id": 42,
+            "start": 1715045700,
+            "end": 1715055600,
+            "doctor_id": 2,
+            "doctor": "Петров П.П",
+            "cabinet_id": 41,
+            "cabinet": 243
+        },
+        {
+            "id": 43,
+            "start": 1715055700,
+            "end": 1715065600,
+            "doctor_id": 3,
+            "doctor": "Сидоров С.С",
+            "cabinet_id": 42,
+            "cabinet": 244
+        },
+        {
+            "id": 44,
+            "start": 1715065700,
+            "end": 1715075600,
+            "doctor_id": 4,
+            "doctor": "Коваленко К.К",
+            "cabinet_id": 43,
+            "cabinet": 245
+        },
+        {
+            "id": 45,
+            "start": 1715075700,
+            "end": 1715085600,
+            "doctor_id": 5,
+            "doctor": "Новикова Н.Н",
+            "cabinet_id": 44,
+            "cabinet": 246
+        },
+        {
+            "id": 46,
+            "start": 1715085700,
+            "end": 1715095600,
+            "doctor_id": 6,
+            "doctor": "Михайлов М.М",
+            "cabinet_id": 45,
+            "cabinet": 247
+        },
+        {
+            "id": 47,
+            "start": 1715095700,
+            "end": 1715105600,
+            "doctor_id": 7,
+            "doctor": "Алексеева А.А",
+            "cabinet_id": 46,
+            "cabinet": 248
+        },
+        {
+            "id": 48,
+            "start": 1715105700,
+            "end": 1715115600,
+            "doctor_id": 8,
+            "doctor": "Игнатьев И.И",
+            "cabinet_id": 47,
+            "cabinet": 249
+        },
+        {
+            "id": 49,
+            "start": 1715115700,
+            "end": 1715125600,
+            "doctor_id": 9,
+            "doctor": "Орлова О.О",
+            "cabinet_id": 48,
+            "cabinet": 250
+        },
+        {
+            "id": 50,
+            "start": 1715125700,
+            "end": 1715135600,
+            "doctor_id": 10,
+            "doctor": "Кузнецова К.К",
+            "cabinet_id": 49,
+            "cabinet": 251
+        }
+    ]
+}
