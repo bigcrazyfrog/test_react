@@ -24,7 +24,7 @@ jobs:
         run: npm ci
 
       - name: Install dependencies
-        run: npm i
+        run: npx playwright install
 
       - name: Run tests 2
         run: npm run e2e-tests
